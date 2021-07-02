@@ -1,0 +1,33 @@
+#root {
+  background-color: #dddddd;
+}
+.container {
+  border: 2px solid black;
+}
+.screen-container {
+  font-family: "Orbitron", sans-serif;
+}
+
+.upper-screen,
+.lower-screen {
+  height: 7vh;
+  text-align: right;
+}
+.upper-screen {
+  color: orange;
+  font-size: 15px;
+}
+.lower-screen {
+  color: white;
+  font-size: 20px;
+}
+
+.btn-lg {
+  border-radius: 0;
+  border: 2px solid black;
+}
+@media (min-width: 320px) {
+  .container {
+    width: 300px;
+  }
+}
