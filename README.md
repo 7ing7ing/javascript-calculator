@@ -12,6 +12,6 @@
 
 
 :link:Link:
-- 7ing7ing.github.io/javascript-calculator/
+- https://7ing7ing.github.io/javascript-calculator/
 
 
