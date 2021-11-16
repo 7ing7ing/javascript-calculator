@@ -3,6 +3,7 @@
 :page_facing_up:Description:
 
 - A calculator that sum, deduct, multiply and divide.
+
 :wrench:Technologies used:
 
 - HTML, CSS, Javascript
