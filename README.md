@@ -2,13 +2,13 @@
 
 :page_facing_up:Description:
 
-- A calculator that sum, deduct, multiply and divide.
+- A calculator that sum, deduct, multiply and divide
 
 :wrench:Technologies used:
 
 - HTML, CSS, Javascript
 - React (class components)
-- Math.js npm package.
+- Math.js npm package
 
 
 :link:Link:
